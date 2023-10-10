@@ -17,6 +17,6 @@ int main() {
             return 0;}
         nb = nb+1;
     }
-    cout << caractere << " n'est pas une voyelle";
+    cout << caractere << " est une consonne";
     return 1;
     }
