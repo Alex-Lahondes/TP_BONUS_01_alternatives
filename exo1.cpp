@@ -14,5 +14,4 @@ int main() {
         cout << "Le nombre " << nbEntier << " est impaire";
         return 2;
     }
-    return 0;
 }
